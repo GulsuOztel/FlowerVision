@@ -164,3 +164,12 @@ Computer Engineering
 ## Acknowledgements
 
 Dataset: [TensorFlow Datasets – TF Flowers](https://www.tensorflow.org/datasets/catalog/tf_flowers)
+
+## Trained Model
+
+The trained V2 model is available here:
+
+[Download FlowerVision Model]([GOOGLE_DRIVE_LINK](https://drive.google.com/file/d/1RH2Rb0M13pTi9t08cu6BzLfXLsBByiPP/view?usp=share_link))
+
+
+
